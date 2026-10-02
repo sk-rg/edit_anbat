@@ -1,0 +1,6 @@
+{
+  "name": "ANBAT – Your Nabataean Companion to Petra",
+  "description": "Interactive Petra visitor companion with collectible Nabataean creature guides, grounded AI RAG Q&A, and a tamper-evident monument condition log for site managers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
